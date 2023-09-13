@@ -5,7 +5,7 @@ Our motivation to work on this project is becuase childhood obesity is a multifa
 
 
 
-<p>students:</p>
+<h2>Students:</h2>
 <ul>
 <li>Arob Alasheikh</li>
 <li>Wejoud Elkhashlan</li>
